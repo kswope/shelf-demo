@@ -57,7 +57,7 @@ class _Class extends React.Component {
           <Col xs={3}>
           </Col>
           <Col xs={6}>
-            <h1 className='text-center'>Company Name Here</h1>
+            <h1 className='text-center'>Company Name Here!</h1>
           </Col>
           <Col xs={3}>
           </Col>
