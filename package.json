@@ -1,9 +1,11 @@
 {
   "name": "shelf-demo",
+  "homepage": "https://kswope.github.io/shelf-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "downloadjs": "^1.4.7",
+    "gh-pages": "^1.0.0",
     "immutable": "^3.8.1",
     "paper": "^0.11.4",
     "qs": "^6.5.0",
@@ -17,6 +19,8 @@
     "redux-immutable": "^4.0.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
