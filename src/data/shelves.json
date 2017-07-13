@@ -1,0 +1,99 @@
+
+{
+  "menuStackCountText": [
+    "I want one stack of shelves",
+    "I want two stacks of shelves",
+    "I want three stacks of shelves",
+    "I want four stacks of shelves",
+    "I want five stacks of shelves",
+    "I want six stacks of shelves",
+    "I want seven stacks of shelves",
+    "I want eight stacks of shelves"
+  ],
+  "menuStackWidthOnlyOneText": "It is X inches wide",
+  "menuStackWidthText": [
+       "The first stack is X inches wide",
+       "The second stack is X inches wide",
+       "The third stack is X inches wide",
+       "The fourth stack is X inches wide",
+       "The fifth stack is X inches wide",
+       "The sixth stack is X inches wide",
+       "The seventh stack is X inches wide",
+       "The eight stack is X inches wide",
+       "The nineth stack is X inches wide"
+  ],
+  "menuShelfCountText": [
+    "It has one shelf",
+    "It has two shelves",
+    "It has three shelves",
+    "It has four shelves",
+    "It has five shelves",
+    "It has six shelves",
+    "It has seven shelves",
+    "It has eight shelves",
+    "It has nine shelves",
+    "It has ten shelves"
+  ],
+  "menuShelfHeightOnlyOneText": "It is X inches tall",
+  "menuShelfHeightText": [
+    "The first shelf is X inches tall",
+    "The second shelf is X inches tall",
+    "The third shelf is X inches tall",
+    "The fourth shelf is X inches tall",
+    "The fifth shelf is X inches tall",
+    "The sixth shelf is X inches tall",
+    "The seventh shelf is X inches tall",
+    "The eighth shelf is X inches tall",
+    "The nineth shelf is X inches tall",
+    "The tenth shelf is X inches tall"
+  ],
+  "connectorPackPrice": 3.00,
+  "bamboo": {
+    "shelf": {
+      "price": {
+        "10":  4.80,
+        "11":  5.28,
+        "12":  5.76,
+        "13":  6.24,
+        "14":  6.72,
+        "15":  7.20,
+        "16":  7.68,
+        "17":  8.16,
+        "18":  8.64,
+        "19":  9.12,
+        "20":  9.60,
+        "21": 10.08,
+        "22": 10.56,
+        "23": 11.04,
+        "24": 11.52,
+        "25": 12.00,
+        "26": 12.48,
+        "27": 12.96,
+        "28": 13.44,
+        "29": 13.92,
+        "30": 14.04,
+        "31": 14.88,
+        "32": 15.36,
+        "33": 15.84,
+        "34": 16.32,
+        "35": 16.80,
+        "36": 17.28
+      }
+    },
+    "feet": {
+      "price": {
+        "6":  2.88,
+        "7":  3.36,
+        "8":  3.84,
+        "9":  4.32,
+        "10": 4.80,
+        "11": 5.28,
+        "12": 5.76,
+        "13": 6.24,
+        "14": 6.72,
+        "15": 7.20,
+        "16": 7.68
+      }
+    }
+  }
+}
