@@ -55,13 +55,11 @@ class _Class extends React.Component {
         { /* header row */ }
         <Row className='row'>
           <Col xs={3}>
-            <img alt="shelf" src={require('../assets/images/fullfillment_by_amazon.png')} className='amazon_badge' />
           </Col>
           <Col xs={6}>
             <h1 className='text-center'>Company Name Here</h1>
           </Col>
           <Col xs={3}>
-            <img alt="shelf" src={require('../assets/images/amazon_payments.png')} className='amazon_badge' />
           </Col>
         </Row>
 
