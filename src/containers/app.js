@@ -63,6 +63,8 @@ class App extends React.Component {
 
   render() {
 
+    console.log("rendering app.js")
+
     return (
 
       <div>

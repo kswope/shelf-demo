@@ -86,11 +86,11 @@ function draw(stacks){
 
   paper.project.clear()
 
-  // // background
-  // let background = new paper.Shape.Rectangle( {
-  //   rectangle: paper.view.bounds,
-  //   fillColor: '#6666cc'
-  // } );
+  // background
+  new paper.Shape.Rectangle( {
+    rectangle: paper.view.bounds,
+    fillColor: '#6666cc'
+  } );
 
   let pxsr = createPixelScaler( paper.view.viewSize, stacks, viewPadding, baseHeight )
 
